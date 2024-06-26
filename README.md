@@ -1,12 +1,18 @@
-<header>
-  #Institute Website
-</header>
+
+# Institute Website
+
 Created a website for an institute - Tech Master
 
-Tech Stack
+
+
+
+## Tech Stack
+
 Html, CSS
 
-Demo
+
+## Demo
+
 Homepage
 
 https://github.com/techiesrishti/InternshipProjectTechMaster/blob/main/InstituteWebsite/project.html
