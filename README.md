@@ -1,4 +1,4 @@
-Institute Website
+#Institute Website
 Created a website for an institute - Tech Master
 
 Tech Stack
