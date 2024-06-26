@@ -1,0 +1,58 @@
+
+        a{
+            text-decoration: none;
+            color: white;
+        }
+        *{
+            padding: 0%;
+            margin: 0%;
+            box-sizing: border-box;
+            
+        }
+        .navbar{
+            background-color: black;
+            line-height: 50px;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            text-align: center;
+        }
+        ul{
+            list-style-type: none;
+            display: flex;
+            grid-gap: 20px;
+        }
+        li{
+            margin: auto;
+            padding: 15px;
+            text-align: center;
+        }
+        #a1{
+            background-color:rgb(215, 100, 83);
+            color: white;
+            font-size: larger;
+        }
+        .fa-square-instagram{
+            font-size: 30px;
+            color: palevioletred;
+            padding: 15px;
+        }
+        .fa-linkedin{
+            font-size: 30px;
+            color: lightskyblue;
+            padding: 15px;
+        }
+        .fa-square-whatsapp{
+            font-size: 30px;
+            color: green;
+            padding: 15px;
+        }
+        h3,h4,h5,pre,P,ol{
+            background-color: skyblue;
+            padding: 10px;
+        }
+        #w1{
+            text-align: left;
+        }
+        
+   
