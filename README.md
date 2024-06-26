@@ -1,4 +1,6 @@
-#Institute Website
+<header>
+  #Institute Website
+</header>
 Created a website for an institute - Tech Master
 
 Tech Stack
